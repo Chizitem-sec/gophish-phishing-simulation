@@ -1,8 +1,8 @@
 # 🎣 Phishing Attack Simulation with Gophish
 
-> **Cybersecurity Lab Project | March 2026**
+> **Cybersecurity Project | March 2026**
 > **Johnbosco Ibeneme** | M.S. Cybersecurity — Washington University of Science and Technology
-> 📧 jibeneme@student.wust.edu | 🔗 [LinkedIn](https://linkedin.com/in/chizitem-ibeneme) | 💻 [GitHub](https://github.com/Chizitem-sec)
+> 📧 chizzyibeneme@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/chizitem-ibeneme) | 💻 [GitHub](https://github.com/Chizitem-sec)
 
 ---
 
@@ -183,8 +183,6 @@ Changes were committed directly via GitHub, which automatically triggered a Rail
 
 ### Step 7: Confirm Deployment and Log In
 
-![Deployment Successful](screenshots/15_railway_deployment_success.png)
-*Railway deployment marked ACTIVE — "Deployment successful" status confirmed, domain live and serving traffic*
 
 ![Deploy Logs](screenshots/16_railway_deploy_logs.png)
 *Deploy logs — database migrations completing successfully, phishing server and admin server both starting at correct addresses*
@@ -314,7 +312,8 @@ Using the Mailgun SMTP details, the sending profile was configured in the local 
 
 A target group was created with two simulated employees representing different organizational roles.
 
-![Users Groups](screenshots/27_users_groups.png)
+
+<img width="1470" height="956" alt="Screenshot 2026-03-24 at 2 15 40 PM" src="https://github.com/user-attachments/assets/720e34a5-ae79-4d01-85af-6b41410131ae" />
 *Target group "Test group" — Jermaine Ibeneme (COO) and Chizitem Ibeneme (CEO) added as phishing simulation targets in the local Gophish instance*
 
 ---
@@ -323,7 +322,8 @@ A target group was created with two simulated employees representing different o
 
 Gophish's Import Site feature was used to clone the LinkedIn login page as the credential harvesting landing page.
 
-![Landing Page Import](screenshots/28_landing_page_import.png)
+
+<img width="1470" height="956" alt="Screenshot 2026-03-24 at 2 19 41 PM" src="https://github.com/user-attachments/assets/242da682-0f17-44cd-98c1-e54d9ccb3305" />
 *Import Site dialog — https://www.linkedin.com/login entered to clone the login page as the fake landing page*
 
 ![Landing Page Configured](screenshots/33_gophish_binary_download.png)
@@ -535,7 +535,7 @@ gophish-phishing-simulation/
 
 ## ⚖️ Ethical Disclaimer
 
-> This project was conducted **strictly in a controlled lab environment** for educational purposes as part of M.S. Cybersecurity coursework. All simulated phishing emails were sent exclusively to email accounts owned and controlled by the researcher. No unauthorized individuals were targeted at any point. Phishing simulations must only be conducted with **explicit written authorization** from all relevant parties. Unauthorized phishing is a federal offense under the Computer Fraud and Abuse Act (CFAA) and equivalent international legislation.
+> This project was conducted **strictly in a controlled lab environment** for educational and research purposes only. All simulated phishing emails were sent exclusively to email accounts owned and controlled by the researcher. No unauthorized individuals were targeted at any point. 
 
 ---
 
@@ -546,8 +546,7 @@ gophish-phishing-simulation/
 - [Railway Documentation](https://docs.railway.app)
 - [Mailgun SMTP Documentation](https://documentation.mailgun.com)
 - [ngrok Documentation](https://ngrok.com/docs)
-- NIST SP 800-115 — Technical Guide to Information Security Testing and Assessment
 
 ---
 
-*Project completed: March 25, 2026 | Johnbosco Ibeneme | WUST M.S. Cybersecurity*
+*Project completed: March 25, 2026 | Johnbosco Ibeneme*
