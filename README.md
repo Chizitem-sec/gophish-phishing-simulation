@@ -25,3 +25,6 @@ located in the [`gophish-project/`](./gophish-project) folder.
 ## 💼 Skills Demonstrated
 Cloud deployment · SMTP relay configuration · Phishing simulation · 
 Infrastructure troubleshooting · Network tunneling · Security awareness testing
+---
+
+*Part of my cybersecurity home lab portfolio — focused on offensive security awareness, social engineering simulation, and phishing campaign analysis.*
