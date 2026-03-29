@@ -1,6 +1,6 @@
 # 🎣 Phishing Attack Simulation with Gophish
 
-> **Cybersecurity Project | March 2026**
+> **Cybersecurity Project | March 2026** |
 > **Johnbosco Ibeneme** |
 > 📧 chizzyibeneme@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/chizitem-ibeneme) | 💻 [GitHub](https://github.com/Chizitem-sec)
 
